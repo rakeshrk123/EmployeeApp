@@ -1,0 +1,24 @@
+{
+  "name": "employeeapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakeshrk123/EmployeeApp.git"
+  },
+  "author": "Madhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrk123/EmployeeApp.git"
+  },
+  "homepage": "https://github.com/rakeshrk123/EmployeeApp.git",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "nodemon": "^2.0.16"
+  },
+  "description": ""
+}
